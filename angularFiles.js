@@ -8,7 +8,7 @@ var angularFiles = {
     'src/shallowCopy.js',
     'src/stringify.js',
     'src/AngularPublic.js',
-    'src/jqLite.js',
+//    'src/jqLite.js',
     'src/apis.js',
 
     'src/auto/injector.js',
